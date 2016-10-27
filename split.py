@@ -1,4 +1,4 @@
 import sys
-#jack pincombe
+#jack pincombe jackpincombe1@gmail.com
 
 for i in range(int(input())): s = input(); print(*("".join(s[::2]),"".join(s[1::2])))

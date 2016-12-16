@@ -29,4 +29,4 @@ def factorial(x):
     
     
 
-print(factorial(10))
+print(factorial(6))
